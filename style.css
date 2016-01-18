@@ -5,13 +5,13 @@ body, html {
 
 }
 
-.container { display: block;
+.container {
+    display: block;
     position: relative;
-
     overflow: hidden;
 }
 
-#mycanvas{
+#mycanvas {
     display: block;
 }
 
