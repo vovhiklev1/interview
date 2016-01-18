@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d19738d5-8f57-4d28-9197-4e6650171eee" name="Default" comment="utf add">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vovhiklev1.github.io" afterPath="$PROJECT_DIR$/vovhiklev1.github.io" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shape.js" afterPath="$PROJECT_DIR$/shape.js" />
+    <list default="true" id="d19738d5-8f57-4d28-9197-4e6650171eee" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vovhiklev1.github.io/shape.js" afterPath="$PROJECT_DIR$/vovhiklev1.github.io/shape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="interview.iws" />
@@ -70,8 +67,8 @@
       <file leaf-file-name="shape.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vovhiklev1.github.io/shape.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91542286">
-              <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.28686327">
+              <caret line="109" column="29" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -325,7 +322,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453129815923</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="utf add">
+      <created>1453130920299</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1453130920299</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -551,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vovhiklev1.github.io/shape.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91542286">
-          <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.28686327">
+          <caret line="109" column="29" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
           <folding />
         </state>
       </provider>
