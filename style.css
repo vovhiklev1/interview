@@ -2,11 +2,17 @@
 body, html {
     padding: 0;
     margin: 0;
+
 }
 
-.container {
+.container { display: block;
     position: relative;
+
     overflow: hidden;
+}
+
+#mycanvas{
+    display: block;
 }
 
 .btn-container {
