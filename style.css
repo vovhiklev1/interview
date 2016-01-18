@@ -9,10 +9,14 @@ body, html {
     display: block;
     position: relative;
     overflow: hidden;
+    width: 100%;
 }
 
 #mycanvas {
     display: block;
+    padding: 0;
+    margin: 0;
+    width: 100%;
 }
 
 .btn-container {
